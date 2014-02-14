@@ -1,0 +1,1 @@
+This repository contains scripts that I find helpful for working with Arch Linux. While most of these are available on the internet with the right incantation of Google, this repo is here to help me remember the more interesting commands.
